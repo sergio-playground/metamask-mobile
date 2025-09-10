@@ -9389,10 +9389,10 @@
   resolved "https://registry.yarnpkg.com/@types/estree/-/estree-1.0.1.tgz#aa22750962f3bf0e79d753d3cc067f010c95f194"
   integrity sha512-LG4opVs2ANWZ1TJoKc937iMmNstM/d0ae1vNbnBvBhqCSezgVUOzcLCqbI5elV8Vy6WKwKjaqR+zO9VKirBBCA==
 
-"@types/eth-url-parser@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@types/eth-url-parser/-/eth-url-parser-1.0.0.tgz#8b437da44759d3ee291440f4f4b9b2d1cabaea76"
-  integrity sha512-i2yn58j6R4MtPBdkxsioLNRrCp5cfhTSFmcAL3h4q9wTYA4OX4NB++I7nTGi3WLYLWngyAWg5/wduwFwCI0New==
+"@types/eth-url-parser@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@types/eth-url-parser/-/eth-url-parser-1.0.3.tgz#4ab17a56bc9fc798f9b64948ff50223d4d395610"
+  integrity sha512-+/Rf/XTs/Coq6iHJOhzRFZTC2D5hpCsWCudk1T/46fCxJdDTJ58WbWV/f5gIz8Ym2umOwl2tego2jc9NdiN9WA==
 
 "@types/express-serve-static-core@^4.17.33":
   version "4.17.35"
